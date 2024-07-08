@@ -117,7 +117,10 @@ const Login = () => {
                 <div>
                     <h2 className='text-black'>Don't Have an account <Link className=' text-pink-500 font-bold' to={'/signup'}>Signup</Link></h2>
                 </div>
-
+<div class="text-center">
+<h1> admin@gmail.com </h1>
+    <p>123456</p>
+</div>
             </div>
         </div>
     );
